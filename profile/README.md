@@ -33,7 +33,7 @@ Lack of public knowledge about health can cause mild to severe illnesses. Many p
 
 **Client:** Android, Kotlin, Jetpack Compose
 
-**Server:** Node, 
+**Server:** Node, Google Cloud
 
 **Machine Learnig:** Tensorflow, 
 
