@@ -3,7 +3,9 @@
 Lack of public knowledge about health can cause mild to severe illnesses. Many people still don't know about health problems because there are still several areas where health services are not yet available. We want to create a service for early diagnosis of diseases that can be accessed from anywhere, making it easier for anyone to access health information and check it independently. In this way, people do not need to go to the hospital for an initial diagnosis they use our services.
 
 
-![logo](https://drive.google.com/uc?export=view&id=1KpfyB7917VNdmEKeVNMgcWi7m01tS4mS)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1KpfyB7917VNdmEKeVNMgcWi7m01tS4mS" alt="logo profilaksis">
+</p>
 
 
 ## Features
