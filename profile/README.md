@@ -37,5 +37,5 @@ Lack of public knowledge about health can cause mild to severe illnesses. Many p
 
 **Server:** Node js, Express js
 
-**Machine Learnig:** Tensorflow, Jupyter Notebook
+**Machine Learnig:** Tensorflow
 
