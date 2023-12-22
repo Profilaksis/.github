@@ -26,7 +26,9 @@ Lack of public knowledge about health can cause mild to severe illnesses. Many p
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1DoMm4FZVMES6ikMVHfirYJEPvv1ZcNv3" alt="Another Image Description">
+</p>
 
 
 ## Tech Stack
