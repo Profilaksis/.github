@@ -3,7 +3,7 @@
 <p>Lack of public knowledge about health can cause mild to severe illnesses. Many people still don't know about health problems because there are still several areas where health services are unavailable. We want to create a service for early diagnosis of diseases that can be accessed from anywhere, making it easier for anyone to access health information and check it independently. In this way, people do not need to go to the hospital for an initial diagnosis they use our services.</p>
 
 <p align="center">
-  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/Logo.png" alt="logo profilaksis">
+  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/Logo.png" alt="logo profilaksis" style="width: 300px; height: 300px;">
 </p>
 
 ## Features
