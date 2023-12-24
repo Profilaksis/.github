@@ -1,20 +1,20 @@
 # Profilaksis AI
 
-<p>Lack of public knowledge about health can cause mild to severe illnesses. Many people still don't know about health problems because there are still several areas where health services are not yet available. We want to create a service for early diagnosis of diseases that can be accessed from anywhere, making it easier for anyone to access health information and check it independently. In this way, people do not need to go to the hospital for an initial diagnosis they use our services.</p>
+<p>Lack of public knowledge about health can cause mild to severe illnesses. Many people still don't know about health problems because there are still several areas where health services are unavailable. We want to create a service for early diagnosis of diseases that can be accessed from anywhere, making it easier for anyone to access health information and check it independently. In this way, people do not need to go to the hospital for an initial diagnosis they use our services.</p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1KpfyB7917VNdmEKeVNMgcWi7m01tS4mS" alt="logo profilaksis">
+  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/Logo.png" alt="logo profilaksis">
 </p>
 
 ## Features
 
-- Screening Heart Deases
+- Screening for Heart Diseases
 - Screening Diabetes
-- running : Android, Google Play Console, Model Machine Learning
+- running: Android, Google Play Console, Model Machine Learning
 
 ## Authors
 
-![Team](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Team](https://github.com/Profilaksis/.github/blob/main/profile/img/team.png)
 
 - [@M306BSY0542 – Saddam Ali](https://github.com/saddamalii)
 - [@M008BSY1499 – M. Faisal Sidiq](https://github.com/faisalsidiq27)
@@ -27,7 +27,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1DoMm4FZVMES6ikMVHfirYJEPvv1ZcNv3" alt="Another Image Description">
+  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/screenshoot.png" alt="Screenshot Application">
 </p>
 
 ## Tech Stack
@@ -36,7 +36,7 @@
 
 **Server:** Node js, Express js
 
-**Machine Learnig:** Tensorflow
+**Machine Learning:** Tensorflow
 
 ## Feedback
 
