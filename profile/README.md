@@ -14,7 +14,7 @@
 
 ## Authors
 <p align="center">
-  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/team.png" alt="our team" style=height: 400px;">
+  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/team.png" alt="our team" style="height: 400px;">
 </p>
 
 - [@M306BSY0542 – Saddam Ali](https://github.com/saddamalii)
