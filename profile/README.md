@@ -13,8 +13,9 @@
 - running: Android, Google Play Console, Model Machine Learning
 
 ## Authors
-
-![Team](https://github.com/Profilaksis/.github/blob/main/profile/img/team.png)
+<p align="center">
+  <img src="https://github.com/Profilaksis/.github/blob/main/profile/img/team.png" alt="our team" style=height: 500px;">
+</p>
 
 - [@M306BSY0542 – Saddam Ali](https://github.com/saddamalii)
 - [@M008BSY1499 – M. Faisal Sidiq](https://github.com/faisalsidiq27)
